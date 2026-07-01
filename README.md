@@ -1,78 +1,133 @@
 # Hi, I'm Ederson 👋
 
-**Senior Site Reliability Engineer | Platform Engineer**
+## Senior Site Reliability Engineer | Platform Engineer
 
-I work with reliability, observability, automation and platform engineering for mission-critical environments.
+I build reliable, observable and automated platforms for enterprise environments.
 
-My focus is on building resilient, scalable and observable platforms through modern SRE practices, cloud computing and automation.
+My work is focused on **Site Reliability Engineering**, **Platform Engineering**, **Cloud**, **Automation** and **Observability**, helping organizations improve system reliability and operational excellence.
 
 ---
 
-## About Me
+# 🚀 Building in Public
 
-- Senior Site Reliability Engineer
+I'm currently building the **SRE Engineering Handbook**, an open-source project that documents practical Site Reliability Engineering through real-world scenarios, hands-on labs, production runbooks and troubleshooting guides.
+
+The goal is simple:
+
+> Build one of the best public knowledge bases for SRE and Platform Engineering.
+
+🔗 **SRE Engineering Handbook**
+
+https://github.com/Ederson85/sre-engineering-handbook
+
+---
+
+# 📍 Now
+
+Currently focused on:
+
+- Building the SRE Engineering Handbook
 - Platform Engineering
-- Cloud Infrastructure
+- Kubernetes
+- OpenTelemetry
 - Observability
-- API Management
-- Automation
-- Kubernetes & OpenShift
-- Infrastructure as Code
+- Cloud Architecture
+- Reliability Engineering
 
 ---
 
-## Current Focus
+# 💼 Areas of Expertise
 
 - Site Reliability Engineering
 - Platform Engineering
+- Cloud Infrastructure
+- Kubernetes & OpenShift
 - Observability
-- Kubernetes
-- OpenShift
-- Azure
-- Dynatrace
-- OpenTelemetry
 - API Management
+- Infrastructure as Code
 - Automation
+- Reliability Engineering
 
 ---
 
-## Tech Stack
+# ⚙️ Technology Stack
 
-**Cloud:** Azure | AWS | Google Cloud  
-**Containers:** Kubernetes | OpenShift | Docker  
-**Observability:** Dynatrace | Datadog | OpenTelemetry | Grafana | Prometheus  
-**Automation:** Terraform | Ansible | GitHub Actions | CI/CD  
-**API Management:** Axway API Gateway | Azure API Management  
-**Systems:** Linux | Windows Server | NGINX  
+### Cloud
 
----
+Azure • AWS • Google Cloud Platform
 
-## Featured Projects
+### Containers
 
-🚧 Projects in progress as part of my SRE learning and engineering journey.
+Kubernetes • OpenShift • Docker
 
-Coming soon:
+### Infrastructure as Code
 
-- SRE Labs
-- Kubernetes Labs
-- Observability Labs
-- Terraform Labs
-- Incident Response Runbooks
-- API Management Labs
+Terraform • Ansible
 
----
+### Observability
 
-## Professional Journey
+Dynatrace • OpenTelemetry • Datadog • Prometheus • Grafana
 
-My career started in IT infrastructure, supporting servers, networks and mission-critical environments.
+### API Management
 
-Over the years, I evolved through enterprise infrastructure, cloud computing, DevOps, observability and Site Reliability Engineering.
+Axway API Gateway • Azure API Management
 
-Today, my work is focused on building reliable platforms, improving operational excellence and applying modern SRE practices in complex environments.
+### Operating Systems
+
+Linux • Windows Server
+
+### Automation
+
+GitHub Actions • Bash • PowerShell • CI/CD
 
 ---
 
-## Connect with Me
+# 🌱 Current Roadmap
 
-[LinkedIn](https://www.linkedin.com/in/edersondonascimento)  
-[GitHub](https://github.com/Ederson85)
+- 🚧 SRE Engineering Handbook
+- 🚧 Linux for SRE
+- 🚧 Kubernetes
+- 🚧 Observability
+- 🚧 Platform Engineering
+- 🚧 Production Runbooks
+- 🚧 Incident Management
+
+---
+
+# 🎤 Community
+
+I believe engineering knowledge becomes more valuable when shared.
+
+Current initiatives include:
+
+- Building open-source engineering projects
+- Publishing technical documentation
+- Creating hands-on laboratories
+- Sharing practical SRE knowledge
+- Speaking at technology events
+
+---
+
+# 📈 Professional Journey
+
+My career started in IT Infrastructure, where I built strong foundations in enterprise support, operating systems and networking.
+
+Over the years, I evolved through enterprise infrastructure, cloud computing, observability and DevOps until specializing in Site Reliability Engineering.
+
+Today I focus on designing reliable platforms, improving operational excellence and helping build resilient systems.
+
+---
+
+# 📫 Connect
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/edersondonascimento
+
+💻 GitHub
+
+https://github.com/Ederson85
+
+---
+
+> **Building reliable platforms. Sharing knowledge. Engineering for resilience.**
